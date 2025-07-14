@@ -17,5 +17,5 @@ This is a simple password generator application built using Python and Tkinter. 
 
 This project was created as part of the CODSOFT internship.
 
-The demo video for this project is available on Linkedin (Tagged under CODSOFT the link available in my profile).
+The demo video for this project is available on Linkedin (Tagged under CODSOFT the link available in my profile).☺️
 
